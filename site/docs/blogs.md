@@ -23,6 +23,12 @@ title: "Blogs"
 Here is a list of company blogs that talk about Iceberg. The blogs are ordered from most recent to oldest.
 
 <!-- markdown-link-check-disable-next-line -->
+### [How to Stream Data from Kafka to Apache Iceberg in Minutes](https://estuary.dev/blog/kafka-to-apache-iceberg/)
+**Date**: April 3rd, 2025, **Company**: Estuary
+
+**Author**: [Dani Pálma]](https://www.linkedin.com/in/danthelion)
+
+<!-- markdown-link-check-disable-next-line -->
 ### [How to Load Data into Apache Iceberg: A Step-by-Step Tutorial](https://estuary.dev/blog/loading-data-into-apache-iceberg/)
 **Date**: March 20, 2025, **Company**: Estuary
 **Author**: [Dani Pálma](https://www.linkedin.com/in/danthelion)
